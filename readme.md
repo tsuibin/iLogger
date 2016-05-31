@@ -7,3 +7,10 @@
 2种接口方式：1直接输出3.6V供电，2串入到电路中进行测量。
 
 ![Image](https://github.com/lshw/iLogger/raw/master/img.jpg)
+
+PIN
+1 
+2 tx
+3 rx
+4 reset
+5
